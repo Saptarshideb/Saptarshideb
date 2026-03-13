@@ -60,16 +60,21 @@ Building intelligent systems using Machine Learning, Deep Learning and Data Scie
 ## 🧪 AI / Machine Learning Projects
 
 
+
 🔹 **PostureAI – Real-Time Posture Detection**  
+
 Computer vision system that detects posture and calculates posture score using body landmarks.
 
 🔹 **Stock Market Prediction**
+
 Machine learning system that predicts next-day stock returns using a stock ensemble learning architecture.
 
 🔹 **Realtime AI assistant**
+
 Realtime AI chat assistent with, session history and session summary implementing Supabase (postgres).
 
 🔹 **Speech Emotion Recognition**
+
 Speech Emotion Recognition using Spectrogram-based CNN models and MFCC features.
 
 
